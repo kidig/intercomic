@@ -1,2 +1,3 @@
 # intercomic
-Tiny Intercom REST API
+Tiny Intercom (https://intercom.io) REST API Client
+
