@@ -4,6 +4,8 @@ from requests.auth import AuthBase
 
 __all__ = ['IntercomApp']
 
+__version__ = '0.1.1'
+
 
 class IntercomAuth(AuthBase):
     def __init__(self, token):
