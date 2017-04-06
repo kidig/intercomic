@@ -3,7 +3,9 @@ Tiny Client for the Intercom API (https://api.intercom.io/)
 
 ## Installation
 
-Will be soon at PYPI
+```
+pip install intercomic
+```
 
 ## Basic Usage
 
